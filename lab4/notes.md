@@ -23,3 +23,21 @@ Git printed a commit summary with the branch name, short commit hash, and file c
 
 ### Question 8
 The first seven characters are the short commit SHA-1 hash. They act as a unique identifier for that specific commit snapshot.x
+
+### Question 9
+The four steps of the repetitive Git loop are: Edit (modify files), Check (run git status), Stage (run git add), and Commit (run git commit).
+
+### Question 10
+README.md is automatically rendered on the main landing page of a GitHub repository to give visitors an immediate overview of the project.
+
+### Question 11
+gh auth login authenticates the machine using OAuth credentials, so Git doesn't prompt for a password every time you push.
+
+### Question 12
+The README.md file is displayed on the front page because GitHub automatically renders root README files as documentation for the repository.
+
+### Question 13
+No, git push uploads commits to GitHub; it does not change or alter local commit history.
+
+### Question 14
+A private repository exists on GitHub and is accessible only to you and invited collaborators. A non-existent repository does not exist on GitHub at all.
